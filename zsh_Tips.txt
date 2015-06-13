@@ -1,0 +1,20 @@
+CTRL + R = search
+Command + R => instead of wiping the screen, just hides everything above window (scrollable)
+- => to go back to the previous directory you were in before a move
+
+*When Saving a File in GUI
+Command shift G => Go To Folder
+
+## Links in command line
+Hold Command, mouse now turns into pointer to enabling clicking on the link directly
+
+Enabling a Plugin
+zshconfig || subl ~/.zshrc
+search plugins section and add plugin (found on Wiki)
+
+Plugins
+extract - unzip util
+cloudapp - url shortening, upload screenshots
+
+trash - use this instead of rm
+trash <file_or_dir_name>
