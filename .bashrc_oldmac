@@ -1,0 +1,15 @@
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+alias gst='git status'
+alias gap='git add -p'
+alias gunstage='git reset HEAD --'
+# unstage = reset HEAD --
+alias glast='git log -1 HEAD'
+# last = log -1 HEAD
+alias gp='git push'
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
+
+export PATH="$HOME/.rvm/gems/ruby-2.1.0-preview2@global/gems/aws-s3-0.6.3/bin:/$PATH"

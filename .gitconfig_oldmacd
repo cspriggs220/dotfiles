@@ -1,0 +1,30 @@
+[user]
+	name = Cody Spriggs
+	email = codyspriggs@me.com
+[core]
+	autocrlf = false
+	safecrlf = true
+	excludesfile = .gitignore
+	editor = subl -w
+[credential]
+	helper = osxkeychain
+[push]
+	default = simple
+[color]
+  ui = auto
+[color "branch"]
+  current = yellow reverse
+  local = yellow
+  remote = green
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = red bold
+  new = green bold
+[color "status"]
+  added = yellow
+  changed = green
+  untracked = cyan
+[alias]
+  lol = log --graph --decorate --pretty=oneline --abbrev-commit
+  lola = log --graph --decorate --pretty=format:\"%C(yellow)%h %C(white)%d%Creset %s %Cblue(%an) %Cred%cr\" --abbrev-commit --all

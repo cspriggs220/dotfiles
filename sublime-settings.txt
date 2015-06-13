@@ -1,0 +1,17 @@
+{
+  "bold_folders_labels": true,
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+  "draw_white_space": "all",
+  "font_face": "DejaVu Sans Mono for Powerline",
+  "font_size": 14.0,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "tabs_medium": true,
+  "theme": "Afterglow.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
