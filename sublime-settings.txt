@@ -2,6 +2,7 @@
   "always_show_minimap_viewport": true,
   "draw_white_space": "all",
   "bold_folder_labels": true,
+  "indent_guide_options": [ "draw_normal", "draw_active" ], // Highlight active indent
   //"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
   "font_options":
   [
