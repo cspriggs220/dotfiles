@@ -79,4 +79,5 @@ source $ZSH/oh-my-zsh.sh
 alias zshconf="subl ~/.zshrc"
 alias ohmyzsh="subl ~/.oh-my-zsh"
 alias t=trash
+alias be=bundle\ exec
 . ~/z.sh
