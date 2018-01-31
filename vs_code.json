@@ -1,0 +1,28 @@
+{
+  // "workbench.colorTheme": "Abyss",
+  "window.zoomLevel": -1,
+  "window.nativeTabs": true,
+  "files.associations": {
+    "*.erb": "html"
+  },
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Inconsolata",
+  "editor.fontSize": 14,
+  "editor.cursorStyle": "block",
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "html.suggest.html5": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "Inconsolata for Powerline",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "erb": "html"
+  },
+  "workbench.colorTheme": "Cobalt2",
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true
+}

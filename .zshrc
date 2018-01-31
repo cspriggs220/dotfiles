@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/codyspriggs/.oh-my-zsh
+export ZSH=/Users/cody.spriggs/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -76,8 +76,8 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias zshconf="subl ~/.zshrc"
-alias ohmyzsh="subl ~/.oh-my-zsh"
+alias zshconf="sublime ~/.zshrc"
+alias ohmyzsh="sublime ~/.oh-my-zsh"
 alias t=trash
 alias be=bundle\ exec
 . ~/z.sh
